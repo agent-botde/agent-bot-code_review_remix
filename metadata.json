@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Code Reviewer",
+  "description": "Ein intelligentes Tool zur Code-Analyse und -Review, angetrieben von Google Gemini.",
+  "requestFramePermissions": []
+}
